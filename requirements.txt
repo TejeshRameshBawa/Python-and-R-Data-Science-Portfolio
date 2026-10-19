@@ -1,0 +1,3 @@
+# Dependency list inferred from imports; not a validated environment lockfile.
+matplotlib
+networkx
